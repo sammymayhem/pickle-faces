@@ -1,6 +1,7 @@
 import React, { useState } from 'react'
 import { RiMenu3Line, RiCloseLine } from 'react-icons/ri';
 import './navbar.css';
+import logo from '../../assets/pickle2.png';
 
 
 const Menu = () => (
@@ -20,7 +21,7 @@ const Navbar = () => {
     <div className='pickle__navbar'>
       <div className='pickle__navbar-links'>
         <div className='pickle__navbar-links_logo'>
-          {/* <img src={logo} alt='logo' /> */}
+          <img src={logo} alt='logo' />
         </div>
         <div className='pickle__navbar-links_container'>
           <Menu />

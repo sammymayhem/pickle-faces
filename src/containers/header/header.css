@@ -84,11 +84,6 @@
     margin-top: 2rem;
 }
 
-.pickle__header-content__people img {
-    width: 181.79px;
-    height: 38px;
-}
-
 .pickle__header-content__people p {
     margin: 0 0 0 1rem;
     font-family: var(--font-family);
@@ -110,6 +105,7 @@
 .pickle__header-image img {
     width: 100%;
     height: 100%;
+    border-radius: 5px;
 }
 
 @media screen and (max-width: 1050px) {

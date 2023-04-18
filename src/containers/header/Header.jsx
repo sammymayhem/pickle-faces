@@ -1,6 +1,6 @@
 import React from 'react';
 import './header.css';
-import pickleH from '../../assets/pickle2.png';
+import pickleH from '../../assets/disney-pickle-dog.png';
 
 
 
