@@ -4,7 +4,7 @@ import { Feature } from '../../components';
 
 const WhatPickle = () => {
   return (
-    <div className='pickle__whatPickle section__margin' id='whatpickle'>
+    <div className='pickle__whatPickle section__margin' id='whatPickle'>
       <div className='pickle__whatPickle-feature'>
         <Feature title='What is a pickle?' text='We so opinion friends me message as delight. Whole front do of plate heard oh ought. His defective nor convinced residence own. Connection has put impossible own apartments boisterous. At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by.' />
       </div>
