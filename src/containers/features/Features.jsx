@@ -25,7 +25,7 @@ const Features = () => {
   return (
     <div className='gpt3__features section__padding' id='features'>
       <div className='gpt3__features-heading'>
-        <h1 className='gradient__text'>The Future is Now and You Just Need To a Pickle to Start. Step into Briny Future Today & Make it Pickled.</h1>
+        <h1 className='gradient__text'>The Future is Now and You Just Need a Pickle to Start. Step into a Briny Future Today & Make it Pickled.</h1>
       </div>
       <div className='gpt3__features-container'>
         {featuresData.map((item, index) => (
