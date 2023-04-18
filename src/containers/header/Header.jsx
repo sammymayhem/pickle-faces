@@ -8,7 +8,7 @@ const Header = () => {
   return (
     <div className='pickle__header section__padding' id='home'>
       <div className='pickle__header-content'>
-        <h1 className='gradient__text'>The may faces of pickles!</h1>
+        <h1 className='gradient__text'>The many faces of pickles!</h1>
         <p>From a snack item straight from the jar to delicious condiment addition to any food, the pickle has many faces and uses. Join us as we dive in to just a few of the amazing ways pickles have shaped our lives!</p>
 
         <div className='pickle__header-content__input'>
